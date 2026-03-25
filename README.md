@@ -22,7 +22,7 @@
 ## 📫 Kontakt
  
 - **Email:** rattaseppkevin@gmail.com
-- **LinkedIn:** [linkedin.com/in/anna-mets](https://www.linkedin.com/in/kevin-rattasepp-5261733ab/)
+- **LinkedIn:** [linkedin.com/in/kevin-rattasepp](https://www.linkedin.com/in/kevin-rattasepp-5261733ab/)
  
 ---
  
