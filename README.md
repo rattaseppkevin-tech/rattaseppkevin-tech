@@ -1,4 +1,4 @@
-# Tere! 👋 Mina olen [Kevin Rattasepp]
+# Tere! 👋 Mina olen Kevin Rattasepp
  
 ## 🎯 Andmeanalüütiku Karjääri Algus
  
