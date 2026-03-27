@@ -20,6 +20,7 @@
 - [**DACA Portfoolio**](https://github.com/rattaseppkevin-tech/daca-portfolio) - 11-nädalane õppeprojektid
 - [**DACA Tiimi Portfoolio**](https://github.com/rattaseppkevin-tech/urbanstyle-TOOTE-grupp) - 11-nädalane õppeprojektid
 - [**Udemy Data Analysis**](https://github.com/rattaseppkevin-tech/Data-Analysis) - Õpin jooksvalt.
+- [**TalTech Pythoni Algkursus**](https://github.com/rattaseppkevin-tech/python-basics-taltech) - 	26 akad. tundi
  
 ## 📫 Kontakt
  
