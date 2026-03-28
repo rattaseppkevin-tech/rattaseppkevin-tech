@@ -2,7 +2,7 @@
  
 ## 🎯 Andmeanalüütiku Karjääri Algus
  
-Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+Õpin hetkel DACA (Data Analyst Career Accelerator) programmis, kus keskendun andmete puhastamisele, modelleerimisele ja äriväärtuse leidmisele.
  
 ## 🛠️ Tehnoloogiad, mida õpin
  
@@ -21,6 +21,9 @@
 - [**DACA Tiimi Portfoolio**](https://github.com/rattaseppkevin-tech/urbanstyle-TOOTE-grupp) - 11-nädalane õppeprojektid
 - [**Udemy Data Analysis**](https://github.com/rattaseppkevin-tech/Data-Analysis) - Õpin jooksvalt.
 - [**TalTech Pythoni Algkursus**](https://github.com/rattaseppkevin-tech/python-basics-taltech) - 	26 akad. tundi
+
+## 📈 Eesmärk: 
+Rakendada Pythoni ja SQL-i võimekust, et muuta toored andmed selgeteks ärilisteks otsusteks.
  
 ## 📫 Kontakt
  
