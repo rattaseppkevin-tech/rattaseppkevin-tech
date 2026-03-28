@@ -14,8 +14,8 @@
 - **Programmeerimiskeeled:** Python (pandas, plotly, numpy)
 - **Visualiseerimine:** Power BI, Streamlit, MatPlotLib
 - **Versioonihaldus:** Git, GitHub
-- **IDE: Visual Studio Code (VS Code)
-- **Notebooks: Jupyter Notebooks (.ipynb)
+- **IDE:** Visual Studio Code (VS Code)
+- **Notebooks:** Jupyter Notebooks (.ipynb)
  
 ## 📂 Projektid
  
