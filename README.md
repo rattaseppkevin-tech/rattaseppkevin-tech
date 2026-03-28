@@ -12,7 +12,7 @@
  
 - **Andmebaasid:** PostgreSQL, Supabase
 - **Programmeerimiskeeled:** Python (pandas, plotly, numpy)
-- **Visualiseerimine:** Power BI, Streamlit
+- **Visualiseerimine:** Power BI, Streamlit, MatPlotLib
 - **Versioonihaldus:** Git, GitHub
  
 ## 📂 Projektid
