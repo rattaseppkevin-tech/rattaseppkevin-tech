@@ -1,6 +1,4 @@
-Siin on sinu GitHub README täpselt üks-ühele inglisekeeles:
-
-markdown# Hi there! 👋 I'm Kevin Rattasepp
+# Hi there! 👋 I'm Kevin Rattasepp
 
 ## 🎯 Starting My Data Analyst Career
 
