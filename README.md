@@ -21,7 +21,7 @@ I am currently studying in the DACA (Data Analyst Career Accelerator) program, w
 
 - [**DACA Portfolio**](https://github.com/rattaseppkevin-tech/daca-portfolio) - 11-week learning projects
 - [**DACA Team Portfolio**](https://github.com/rattaseppkevin-tech/urbanstyle-TOOTE-grupp) - 11-week learning projects
-- [**Udemy Data Analysis**](https://github.com/rattaseppkevin-tech/Data-Analysis) - Ongoing learning.
+- [**Udemy Data Analysis**](https://github.com/rattaseppkevin-tech/Data-Analysis) - Ongoing
 - [**TalTech Python Basics**](https://github.com/rattaseppkevin-tech/python-basics-taltech) - 26 academic hours
 
 ## 📈 Goal
