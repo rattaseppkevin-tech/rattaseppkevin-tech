@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kevin Rattasepp
 
-> *Junior Data Analyst · SQL · Python · Power BI · Tallinn, Estonia*
+> *Junior Data Analyst · SQL · Python · Power BI · Pärnu, Estonia*
 
 ---
 
