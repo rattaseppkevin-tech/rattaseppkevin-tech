@@ -58,7 +58,7 @@ dashboard design, and presenting findings to stakeholders.
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-rattasepp-5261733ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/kevin-rattasepp-5261733ab)
 [![Email](https://img.shields.io/badge/Email-rattaseppkevin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rattaseppkevin@gmail.com)
 
 ---
