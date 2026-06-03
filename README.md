@@ -11,7 +11,7 @@ and project management on-site, and now I apply that same attention to detail to
 
 I recently completed the intensive **11-week DACA (Data Analyst Career Accelerator)** program,
 working on real business challenges using SQL, Python, and Power BI. I turn raw, messy data
-into clear business decisions — and I use AI tools to do it faster.
+into clear business decisions and I use AI tools to do it faster.
 
 🔍 Currently open to **junior analyst roles and internships**.
 
