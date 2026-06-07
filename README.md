@@ -50,7 +50,7 @@ dashboard design, and presenting findings to stakeholders.
 
 ## 🎓 Education & Certifications
 
-- **Data Analyst Career Accelerator (DACA)** — Ettevõtluskeskus, 2026
+- **[Data Analyst Career Accelerator (DACA)** — Ettevõtluskeskus, 2026](https://github.com/rattaseppkevin-tech/daca-portfolio)
 - **[Python Data Analysis: NumPy & Pandas Masterclass](https://github.com/rattaseppkevin-tech/Data-Analysis)** — Udemy, 2026
 - **[Foundational Python](https://github.com/rattaseppkevin-tech/python-basics-taltech)** — TalTech, 2026
 
