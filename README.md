@@ -46,6 +46,11 @@ dashboard design, and presenting findings to stakeholders.
 
 `SQL` `Python` `Power BI`
 
+### 📈 [Urbanstyle Sales & Profitability Analytics](https://github.com/rattaseppkevin-tech/urbanstyle-sales-analytics)
+Engineered an automated end-to-end cloud data pipeline to transform raw retail transactions into real-time margin analytics. Developed a custom Python script with API pagination logic to securely extract datasets from a Supabase PostgreSQL database, automating the cleaning and calculation of core financial metrics ($2.91M total revenue at a 37% average margin). Eliminated hours of manual data-merging labor while delivering an interactive executive dashboard that surfaces critical multi-year sales trends and channel performance for immediate stakeholder decision-making.
+
+`Python` `Supabase` `SQL` `Power BI` `ETL` `Data Automation`
+
 ---
 
 ## 🎓 Education & Certifications
